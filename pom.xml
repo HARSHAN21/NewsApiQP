@@ -8,8 +8,8 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.blog</groupId>
-	<artifactId>blogApi</artifactId>
+	<groupId>com.newsApi</groupId>
+	<artifactId>newsApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>newsApi</name>
 	<description>Quetions Pro</description>
